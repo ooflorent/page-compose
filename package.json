@@ -1,0 +1,11 @@
+{
+  "name": "page-compose",
+  "version": "0.1.0",
+  "description": "Compose page.js middlewares",
+  "author": "Florent Cailhol <florent.cailhol@gmail.com>",
+  "repository": "ooflorent/page-compose",
+  "keywords": [
+    "page"
+  ],
+  "license": "MIT"
+}
